@@ -1,0 +1,38 @@
+module.exports = [
+  {
+    id: 1,
+    title: "Very Solid!!",
+    rating: 5,
+    text: "Thanks to Ceygiri Labs, our web presence has never been stronger. Their team of developers is knowledgeable, reliable, and always goes above and beyond to ensure our satisfaction.",
+    author: "Rashed Kabir",
+    location: "California",
+    image: "/images/media/img_55.jpg",
+  },
+  {
+    id: 2,
+    title: "Top-Notch software solutions!!",
+    rating: 5,
+    text: "Ceygiri Labs provided us with top-notch software solutions that transformed the way we do business. Their expertise and attention to detail made all the difference.",
+    author: "Kaushan",
+    location: "Colombo, Sri Lanka",
+    image: "/images/media/img_97.jpg",
+  },
+  {
+    id: 3,
+    title: "Game changer!!",
+    rating: 5,
+    text: "Working with Ceygiri Labs was a game-changer for our business. Their software solutions helped us streamline our processes and save valuable time and resources.",
+    author: "Danutha",
+    location: "Colombo, Sri Lanka",
+    image: "/images/media/img_96.jpg",
+  },
+  {
+    id: 4,
+    title: "Innovative!!",
+    rating: 5,
+    text: "They not only understand what I say but read between the lines and also give me ideas of my own.",
+    author: "Darek",
+    location: "Houston",
+    image: "/images/media/img_54.jpg",
+  },
+];
