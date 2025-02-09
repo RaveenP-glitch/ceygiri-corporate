@@ -8,7 +8,7 @@ import {
   pagesItems2,
 } from "../../data/menu";
 
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 
 const MainMenu = () => {
   const router = useRouter();
